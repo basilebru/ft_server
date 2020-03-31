@@ -9,7 +9,6 @@ RUN apt-get update && \
 	#PHP
 	php \
 	php-fpm \
-	#PHP extensions
 	php-pear \
 	php-cgi \
 	php-json \
