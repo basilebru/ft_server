@@ -6,7 +6,6 @@ RUN apt-get update && \
 	default-mysql-server \
 	wget \
 	vim \
-	#PHP
 	php \
 	php-fpm \
 	php-pear \
